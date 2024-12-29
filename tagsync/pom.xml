@@ -322,5 +322,15 @@
             <artifactId>mockito-core</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.open-metadata</groupId>
+            <artifactId>openmetadata-java-client</artifactId>
+            <version>1.5.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.open-metadata</groupId>
+            <artifactId>openmetadata-spec</artifactId>
+            <version>1.5.1</version>
+        </dependency>
     </dependencies>
 </project>
